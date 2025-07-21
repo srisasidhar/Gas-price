@@ -1,0 +1,11 @@
+function App() {
+  const loading = true; // Set this based on your application logic
+
+  return (
+    <div className="App">
+      <GasPriceList loading={loading} />
+    </div>
+  );
+}
+
+export default App;

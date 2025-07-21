@@ -1,0 +1,25 @@
+{
+     "name": "gas-price-tracker",
+     "version": "0.1.0",
+     "scripts": {
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start"
+     },
+     "dependencies": {
+          "@geist-ui/react": "^2.2.5",
+          "@tailwindcss/postcss": "^4.1.11",
+          "autoprefixer": "^10.4.21",
+          "express": "^5.1.0",
+          "next": "latest",
+          "postcss": "^8.5.6",
+          "react": "latest",
+          "react-dom": "latest",
+          "tailwindcss": "^4.1.11"
+     },
+     "devDependencies": {
+          "@types/node": "24.0.15",
+          "@types/react": "19.1.8",
+          "typescript": "5.8.3"
+     }
+}
